@@ -1,0 +1,9 @@
+# Security Notice
+
+## Disclaimer
+
+The script provided in this repository is intended **solely for educational purposes** to demonstrate the vulnerability **CVE-2024-21413**. We **do not** assume any responsibility or liability for any misuse of this script or its components in malicious activities. The HTML code included is designed to make it clear **how hackers could potentially deceive you**. It is not intended to misrepresent or defraud in any way.
+
+By using this script, you acknowledge that it is your responsibility to ensure that it is used ethically and legally. The creators of this repository have no intention of promoting or engaging in any unauthorized or illegal actions.
+
+**Use at your own risk and responsibility.**
